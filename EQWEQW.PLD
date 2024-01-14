@@ -1,0 +1,23 @@
+Name     EQWEQW ;
+PartNo   00 ;
+Date     1/12/2024 ;
+Revision 01 ;
+Designer Engineer ;
+Company  1 ;
+Assembly None ;
+Location  ;
+Device   f1502isptqfp44 ;
+
+/* Opis pinów */
+
+PIN 14 = SW1;
+PIN 15 = RESET; 
+
+/* Opis wyjscia */ 
+
+PIN 28 = LED1; 
+PIN 25 = LED2; 
+PIN 22 = LED3;
+PIN 19 = LED4;
+
+
